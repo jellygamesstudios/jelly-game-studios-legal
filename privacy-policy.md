@@ -39,6 +39,10 @@ When you make an in-app purchase:
 - Crash reports and error logs (Firebase Crashlytics, if enabled)
 - IP address (collected by Firebase for security and abuse prevention)
 - Anonymous identifiers used by Firebase App Check to verify the app is legitimate
+- Aggregated, non-personal app usage events via **Firebase Analytics** (e.g., screen views, session duration). These events do not include personally identifying information and are used only to understand which features are used and how to improve the Game.
+
+### 1.6 No advertising or behavioral profiling
+Circle Strike does **not** display advertisements, integrate any ad SDK, or share data with advertising networks. We do not build advertising profiles of you, sell or rent your information to advertisers, or use your data for any form of behavioral targeting.
 
 ---
 
